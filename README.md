@@ -29,5 +29,4 @@ Our solution must run *offline, be **fast* (≤10 sec for 50 pages), use ≤200M
 2.⁠ ⁠Make sure your English MiniLM model (⁠ english_minilm_model/ ⁠) is downloaded and present.
 3.⁠ ⁠Run the following command:
 
-```bash
-python3 main.py
+
